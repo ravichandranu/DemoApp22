@@ -11,6 +11,8 @@ namespace Demo22App
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+
+            Console.WriteLine("Welcome");
         }
     }
 }
